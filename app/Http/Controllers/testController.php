@@ -26,6 +26,7 @@ class testController extends Controller {
 	public function create()
 	{
 		//
+		return view('test.create');
 	}
 
 	/**
